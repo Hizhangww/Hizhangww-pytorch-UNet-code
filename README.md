@@ -5,7 +5,9 @@ Unet and Fcn nets
 # VOC公开数据集 
 
 data.py     utils.py 	数据预处理
+
 net.py 		  网络模型
+
 train.py 		训练
 text.py  		测试
 FCN.py      FCNnet
